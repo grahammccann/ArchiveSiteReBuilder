@@ -1,5 +1,5 @@
 # Basic Archive Site Downloader
-A basic file downloader from archive.org.
+A basic file downloader for archive.org.
 # Usage
 cd C:\location-to\wayback-downloader.php
 
